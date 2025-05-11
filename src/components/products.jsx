@@ -1,9 +1,9 @@
-import grid1 from "../assets/Images/grid1.jpg";
-import grid2 from "../assets/Images/grid2.jpg";
-import grid3 from "../assets/Images/grid3.jpg";
-import grid4 from "../assets/Images/grid4.jpg";
-import grid5 from "../assets/Images/grid5.jpg";
-import grid6 from "../assets/Images/grid6.jpg";
+import grid1 from "../assets/images/grid1.jpg"
+import grid2 from "../assets/images/grid2.jpg";
+import grid3 from "../assets/images/grid3.jpg";
+import grid4 from "../assets/images/grid4.jpg";
+import grid5 from "../assets/images/grid5.jpg";
+import grid6 from "../assets/images/grid6.jpg";
 const productdata = [
     {
         title: "MacBook Air",
